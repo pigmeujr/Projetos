@@ -1,0 +1,15 @@
+# Executáveis
+*.exe
+*.out
+
+# Objetos compilados
+*.o
+
+# Pastas do VS Code
+.vscode/
+
+# Pastas de output
+output/
+
+# Arquivos temporários
+*.tmp
